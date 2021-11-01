@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://interiorconsultant.gatsbyjs.io/">
+    <a href="https://recipepage.gatsbyjs.io/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/pranav0281999/interior-consultant-page">
+    <a href="https://github.com/pranav0281999/recipe-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/pranav0281999/interior-consultant-page/master/demo/desktopScreenshot.png)
+![screenshot](https://raw.githubusercontent.com/pranav0281999/recipe-page/master/demo/desktopScreenshot.png)
 
 - I developed this project with Gatsby, so I learned that, and I improved by knowledge in CSS.
 - My wisdom is, have some practice with CSS media queries and flex-box.
@@ -50,7 +50,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht) was to build an application to complete the given user stories.
 
 ## Contact
 
