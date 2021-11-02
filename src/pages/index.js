@@ -108,7 +108,7 @@ const IndexPage = () => {
         [
           {
             type: "normal",
-            text: "1 cup (240g) full-fat sour cream, at room temperature"
+            text: "1 cup (240g) full-fat "
           },
           {
             type: "bold",
@@ -132,7 +132,7 @@ const IndexPage = () => {
         [
           {
             type: "normal",
-            text: " fresh lemon juice"
+            text: "2 teaspoons "
           },
           {
             type: "bold",
@@ -164,11 +164,11 @@ const IndexPage = () => {
           },
           {
             type: "italics",
-            text: "salted caramel, lemon curd, strawberry topping, chocolate ganache, red wine chocolate ganache, fresh fruit, whipped cream, or raspberry sauce "
+            text: "salted caramel, lemon curd, strawberry topping, chocolate ganache, red wine chocolate ganache, fresh fruit, whipped cream, or raspberry sauce"
           },
           {
             type: "normal",
-            text: "(recipe in notes)"
+            text: " (recipe in notes)"
           },
         ],
       ]
@@ -257,7 +257,7 @@ const IndexPage = () => {
                 <p className={pRecipeInstructionHeading}>{ingredient.title}</p>
                 {ingredient.list.map(listItem => (
                   <div className={divRecipeInstruction}>
-                    <p className={`material-icons ${pRecipeInstructionCheckbox}`}>check_box_outline_blank</p>
+                    <input type="checkbox" id="scales" name="scales" className={pRecipeInstructionCheckbox}/>
                     <p className={pRecipeInstruction}>
                       {listItem.map(item => {
                         switch (item.type) {

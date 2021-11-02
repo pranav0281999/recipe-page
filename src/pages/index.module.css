@@ -90,9 +90,11 @@
     margin-bottom: 32px;
 }
 
-.p-recipe-instruction-checkbox {
-    color: #828282;
+input.p-recipe-instruction-checkbox {
+    min-width: 18px;
+    min-height: 18px;
     margin-right: 17px;
+    margin-top: 4px;
 }
 
 .p-recipe-instruction {
@@ -303,11 +305,6 @@
 
     .div-recipe-instruction:last-child {
         margin-bottom: 15px;
-    }
-
-    .p-recipe-instruction-checkbox {
-        color: #828282;
-        margin-right: 17px;
     }
 
     .p-recipe-instruction {
